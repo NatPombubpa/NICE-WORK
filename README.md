@@ -7,11 +7,11 @@ NICE-WORK:  New Integrative Core-Microbiome Effort  for Well-founded Organic Ric
 
 ![NICE_WORK_Phase1](NICE_WORK_Phase1.jpg)
 
-1.1.1 Rice (Oryza sativa) rhizosphere soil contain variety of fungal and bacterial species which are structured by geographical locations. 
-1.1.2	Although rice rhizosphere soil microbiome can be differentiated by locations, core microbiome, microbial network hubs, and key species are similar regardless of geographical locations. 
+1. Rice (Oryza sativa) rhizosphere soil contain variety of fungal and bacterial species which are structured by geographical locations. 
+2.	Although rice rhizosphere soil microbiome can be differentiated by locations, core microbiome, microbial network hubs, and key species are similar regardless of geographical locations. 
 
 ### Phase 2
-1.2.1	Applying organic fertilizer to promote rhizosphere soil core microbiome (fungi and bacteria) growth will significantly improve rice growth and productivity. 
+1.	Applying organic fertilizer to promote rhizosphere soil core microbiome (fungi and bacteria) growth will significantly improve rice growth and productivity. 
 
 ## 2.Rationale
 
@@ -24,9 +24,9 @@ Next generation amplicon sequencing has been used widely and is now affordable i
 ## 4.Research plan
 
 ### Phase1
-4.1.1	We will select 10 locations of organic rice farms which have been approved by the Rice Department, Thailand.
-4.1.2	Five rice rhizosphere soil samples will be collected from each location. Microbial DNA will be extracted and performed next generation amplicon sequencing targeting bacteria and fungal communities.
-4.1.3	Microbial ecology approaches will be used to explore bacterial and fungal data to define geographical pattern, core microbiome, microbial network hubs, and key species.
+1.	We will select 10 locations of organic rice farms which have been approved by the Rice Department, Thailand.
+2.	Five rice rhizosphere soil samples will be collected from each location. Microbial DNA will be extracted and performed next generation amplicon sequencing targeting bacteria and fungal communities.
+3.	Microbial ecology approaches will be used to explore bacterial and fungal data to define geographical pattern, core microbiome, microbial network hubs, and key species.
 
 ### Phase2
-4.2.1	We will apply different organic fertilizer or organic farming practice to promote core microbiome growth and investigate how rhizosphere core microbiome changes affect rice growth and rice production. 
+1.	We will apply different organic fertilizer or organic farming practice to promote core microbiome growth and investigate how rhizosphere core microbiome changes affect rice growth and rice production. 
