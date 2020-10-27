@@ -1,11 +1,11 @@
 # NICE-WORK
 NICE-WORK:  New Integrative Core-Microbiome Effort  for Well-founded Organic Rice Knowledge
+![NICE_WORK_Phase1](NICE_WORK_Phase1.jpg)
+
 
 ## 1.Research hypothesis
 
 ### Phase 1
-
-![NICE_WORK_Phase1](NICE_WORK_Phase1.jpg)
 
 1. Rice (Oryza sativa) rhizosphere soil contain variety of fungal and bacterial species which are structured by geographical locations. 
 2.	Although rice rhizosphere soil microbiome can be differentiated by locations, core microbiome, microbial network hubs, and key species are similar regardless of geographical locations. 
