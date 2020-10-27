@@ -18,7 +18,7 @@
 
 Rice consumption have shifted toward the organic rice farming. Thailand, which is one of the major rice producers in the world, is also adopting organic farming practice. However, research on how soil microbiome contribute to rice production in Thailand has just begun and still needed to be explored. Our group is planning to explore rice rhizosphere soil microbiome and develop a protocol to promote core microbiome growth for the next generation organic rice farming in Thailand. 
 
-## 3.Protocols vallidation and Research Team
+## 3.Protocols validation
 
 Next generation amplicon sequencing has been used widely and is now affordable in Thailand. However, soil microbiome are complexed especially when we investigate both fungi and bacteria. Therefore, developing this protocol require both experts in rice and microbiome research. Although, the initiative for this project has just been launched, Dr.P’Poy works on organic rice farming, Dr.P’George works on botany and plant sciences research, and Mr.Pombubpa works on microbiology and plant pathology research. Pombubpa et al., 2020 has shown that soil microbiome are strongly structured by geographical locations and have validated the protocols that can be adapted for hypothesis 1 and 2. 
 
@@ -31,3 +31,8 @@ Next generation amplicon sequencing has been used widely and is now affordable i
 
 ### Phase2
 1.	We will apply different organic fertilizer or organic farming practice to promote core microbiome growth and investigate how rhizosphere core microbiome changes affect rice growth and rice production. 
+
+## 5.Research Team Members
+1. 
+2. 
+3.
