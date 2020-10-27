@@ -2,7 +2,7 @@
 
 
 ![NICE_WORK_Phase1](NICE_WORK_Phase1.jpg)
-
+<center> NICE-WORK: Phase 1 Plan </center>
 
 ## 1.Research hypothesis
 
