@@ -1,7 +1,7 @@
 # NICE-WORK: New Integrative Core-Microbiome Effort for Well-founded Organic Rice Knowledge
 
 
-![NICE_WORK_Phase1](NICE_WORK_Phase1.jpg)
+![NICE_WORK_Phase1](NICE_WORK_Ph1.jpg)
 <p style="text-align: center;"> NICE-WORK: Phase 1 Plan </p>
 
 ## 1.Research hypothesis
