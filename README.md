@@ -6,8 +6,6 @@
 
 ## 1.Research hypothesis
 
-### Phase 1
-
 1. Rice rhizosphere soil microbiome can differentiate cultivation methods (organic vs. chemical farming) and can be used for rapid organic farming validation.  
 2. While locations influence rhizosphere soil microbiome, core microbiome, microbial network hubs, and key species are similar regardless of geographical locations or cultivation methods. 
 3. Applying organic fertilizer to promote healthy rhizosphere soil core microbiome (fungi and bacteria) will significantly improve rice growth and productivity. 
