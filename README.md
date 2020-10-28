@@ -8,15 +8,14 @@
 
 ### Phase 1
 
-1. Rice (Oryza sativa) rhizosphere soil contain variety of fungal and bacterial species which are structured by geographical locations. 
-2.	Although rice rhizosphere soil microbiome can be differentiated by locations, core microbiome, microbial network hubs, and key species are similar regardless of geographical locations. 
-
-### Phase 2
-1.	Applying organic fertilizer to promote rhizosphere soil core microbiome (fungi and bacteria) growth will significantly improve rice growth and productivity. 
+1. Rice rhizosphere soil microbiome can differentiate cultivation methods (organic vs. chemical farming) and can be used for rapid organic farming validation.  
+2. While locations influence rhizosphere soil microbiome, core microbiome, microbial network hubs, and key species are similar regardless of geographical locations or cultivation methods. 
+3. Applying organic fertilizer to promote healthy rhizosphere soil core microbiome (fungi and bacteria) will significantly improve rice growth and productivity. 
+ 
 
 ## 2.Rationale
 
-Rice consumption have shifted toward the organic rice farming. Thailand, which is one of the major rice producers in the world, is also adopting organic farming practice. However, research on how soil microbiome contribute to rice production in Thailand has just begun and still needed to be explored. Our group is planning to explore rice rhizosphere soil microbiome and develop a protocol to promote core microbiome growth for the next generation organic rice farming in Thailand. 
+Thailand, which is one of the major rice producers in the world, is adopting organic rice farming practice to reduce chemical inputs and promote healthy soil. However, the organic farming validation process takes time. Therefore, our plan is 1) to explore the rhizosphere soil microbiome, 2) to develop a protocol for a new rapid organic farming validation using next generation amplicon sequencing, and 3) to promote core microbiome growth for the next generation organic rice farming in Thailand. 
 
 ## 3.Protocols validation
 
@@ -25,14 +24,16 @@ Next generation amplicon sequencing has been used widely and is now affordable i
 ## 4.Research plan
 
 ### Phase1
-1.	We will select 10 locations of organic rice farms which have been approved by the Rice Department, Thailand.
-2.	Five rice rhizosphere soil samples will be collected from each location. Microbial DNA will be extracted and performed next generation amplicon sequencing targeting bacteria and fungal communities.
-3.	Microbial ecology approaches will be used to explore bacterial and fungal data to define geographical pattern, core microbiome, microbial network hubs, and key species.
+1. 5 locations of organic rice farms and 5 conventional rice farms will be selected.
+2. Three soil samples will be collected from each location and used to cultivate the same rice variety in the greenhouse. 
+3. Microbial DNA will be extracted from each pot and performed next gen amplicon sequencing targeting bacteria and fungi.
+4. Microbial ecology approaches will be used to explore microbiome data to define geographical patterns, core microbiome, microbial network hubs, and key species.
 
 ### Phase2
-1.	We will apply different organic fertilizer or organic farming practice to promote core microbiome growth and investigate how rhizosphere core microbiome changes affect rice growth and rice production. 
+1. Different organic fertilizer or organic farming practices will be used to promote core microbiome growth and investigate how rhizosphere core microbiome changes affect rice growth and rice production. 
+ 
 
 ## 5.Research Team Members
-1. 
-2. 
+1.  Mr. Nuttapon Pombubpa
+2.  Dr. Thanin Chantarachot
 3.
