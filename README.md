@@ -23,7 +23,7 @@ Previous work from the group has shown that fermented chitin waste outperforms c
 ## 4.Research plan
 
 ### Phase1
-![NICE_WORK_Phase1](NICE_WORK_ph1.jpg)
+![NICE_WORK_Phase1](NICE_WORK_Ph1.jpg)
 1. 5 locations of organic rice farms and 5 conventional rice farms will be selected.
 2. Microbial DNA will be extracted from each soil sample and performed next gen amplicon sequencing targeting bacteria and fungi.
 3. Microbial ecology approaches will be used to explore microbiome data and develop a rapid organic rice farming validation protocol. Geographical patterns, core microbiome, microbial network hubs, and key species will be used in validation processes.
