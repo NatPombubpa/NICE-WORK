@@ -29,7 +29,7 @@ Previous work from the group has shown that fermented chitin waste outperforms c
 3. Microbial ecology approaches will be used to explore microbiome data and develop a rapid organic rice farming validation protocol. Geographical patterns, core microbiome, microbial network hubs, and key species will be used in validation processes.
 
 ### Phase2
-![NICE_WORK_Phase1](NICE_WORK_ph2.jpg)
+![NICE_WORK_Phase2](NICE_WORK_ph2.jpg)
 1. Three soil samples will be collected from each location described in Phase1 and used to cultivate the same rice variety in the greenhouse. 
 2. Fermented chitin waste organic fertilizer will be used to promote core microbiome growth and investigate how rhizosphere core microbiome changes affect rice growth and rice production. 
  
@@ -37,4 +37,4 @@ Previous work from the group has shown that fermented chitin waste outperforms c
 ## 5.Research Team Members
 1.  Mr. Nuttapon Pombubpa
 2.  Dr. Thanin Chantarachot
-3.
+3. Still need P'Poy name
