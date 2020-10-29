@@ -35,7 +35,8 @@ Previous work from the group has shown that fermented chitin waste outperforms c
 3. Microbial DNA will be extracted from each rice rhizosphere soil sample. 
 4. Next generation amplicon sequencing targeting bacterial and fungal communitites will be performed.
 5. We will monitor core microbiome and investigate how rhizosphere core microbiome changes affect rice growth and rice production. 
- 
+
+This study will take approximately 1 year to complete. We are seeking a partnership which will provide support in next generation amplicon sequencing, equipments for DNA extractions, DNA amplification, and greenhouse experiment, and lastly funding for key personnel.
 
 ## 5.Research Team Members (alphabetical order)
 1. [Nuttapon Pombubpa](https://natpombubpa.github.io/) (University of California Riverside)
