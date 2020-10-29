@@ -38,6 +38,6 @@ Previous work from the group has shown that fermented chitin waste outperforms c
  
 
 ## 5.Research Team Members
-1.  Mr. Nuttapon Pombubpa
-2.  Dr. Thanin Chantarachot
-3. Still need P'Poy name
+1. Mr. Nuttapon Pombubpa
+2. Dr. Thanin Chantarachot
+3. Ms. Ratthipa Thanarak
