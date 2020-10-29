@@ -31,7 +31,7 @@ Previous work from the group has shown that fermented chitin waste outperforms c
 ### Phase2
 ![NICE_WORK_Phase2](NICE_WORK_ph2.jpg)
 1. Three soil samples will be collected from each location described in Phase1.
-2. Soil samples will be transported and used to cultivate the same rice variety with fermented chitin waste organic fertilizer in the greenhouse. 
+2. Soil samples will be transported and used to cultivate an elite rice variety with fermented chitin waste organic fertilizer in the greenhouse. 
 3. Microbial DNA will be extracted from each rice rhizosphere soil sample. 
 4. Next generation amplicon sequencing targeting bacterial and fungal communitites will be performed.
 5. We will monitor core microbiome and investigate how rhizosphere core microbiome changes affect rice growth and rice production. 
