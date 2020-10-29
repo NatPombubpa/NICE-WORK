@@ -1,7 +1,7 @@
 # NICE-WORK: New Integrative Core-Microbiome Effort for Well-founded Organic Rice Knowledge
 
 
-![NICE_WORK_Phase1](NICE_WORK_Ph1.jpg)
+![NICE_WORK_Cover](NICE_WORK_Cover.jpg)
 
 
 ## 1.Research hypothesis
@@ -23,12 +23,13 @@ Previous work from the group has shown that fermented chitin waste outperforms c
 ## 4.Research plan
 
 ### Phase1
-![NICE_WORK_Phase1_detail](NICE_WORK_Ph1_crop.jpg)
+![NICE_WORK_Phase1](NICE_WORK_ph1.jpg)
 1. 5 locations of organic rice farms and 5 conventional rice farms will be selected.
 2. Microbial DNA will be extracted from each soil sample and performed next gen amplicon sequencing targeting bacteria and fungi.
 3. Microbial ecology approaches will be used to explore microbiome data and develop a rapid organic rice farming validation protocol. Geographical patterns, core microbiome, microbial network hubs, and key species will be used in validation processes.
 
 ### Phase2
+![NICE_WORK_Phase1](NICE_WORK_ph2.jpg)
 1. Three soil samples will be collected from each location described in Phase1 and used to cultivate the same rice variety in the greenhouse. 
 2. Fermented chitin waste organic fertilizer will be used to promote core microbiome growth and investigate how rhizosphere core microbiome changes affect rice growth and rice production. 
  
