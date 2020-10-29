@@ -24,14 +24,17 @@ Previous work from the group has shown that fermented chitin waste outperforms c
 
 ### Phase1
 ![NICE_WORK_Phase1](NICE_WORK_Ph1.jpg)
-1. 5 locations of organic rice farms and 5 conventional rice farms will be selected.
-2. Microbial DNA will be extracted from each soil sample and performed next gen amplicon sequencing targeting bacteria and fungi.
-3. Microbial ecology approaches will be used to explore microbiome data and develop a rapid organic rice farming validation protocol. Geographical patterns, core microbiome, microbial network hubs, and key species will be used in validation processes.
+1. Three soil samples will be collected from each location including 5 locations of organic rice farms and 5 conventional rice farms.
+2. Microbial DNA will be extracted from each soil sample and performed next generation amplicon sequencing targeting bacterial and fungal communitites.
+3. Microbial ecology approaches will be used to explore microbiome data and develop a rapid organic rice farming validation protocol. Geographical patterns, core microbiome, microbial network hubs, and key species will be used in validation processes. We will also build organic rice farming microbiome database which can be used for future validation protocol.
 
 ### Phase2
 ![NICE_WORK_Phase2](NICE_WORK_ph2.jpg)
-1. Three soil samples will be collected from each location described in Phase1 and used to cultivate the same rice variety in the greenhouse. 
-2. Fermented chitin waste organic fertilizer will be used to promote core microbiome growth and investigate how rhizosphere core microbiome changes affect rice growth and rice production. 
+1. Three soil samples will be collected from each location described in Phase1.
+2. Soil samples will be transported and used to cultivate the same rice variety with fermented chitin waste organic fertilizer in the greenhouse. 
+3. Microbial DNA will be extracted from each rice rhizosphere soil sample. 
+4. Next generation amplicon sequencing targeting bacterial and fungal communitites will be performed.
+5. We will monitor core microbiome and investigate how rhizosphere core microbiome changes affect rice growth and rice production. 
  
 
 ## 5.Research Team Members
