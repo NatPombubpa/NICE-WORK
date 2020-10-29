@@ -37,7 +37,8 @@ Previous work from the group has shown that fermented chitin waste outperforms c
 5. We will monitor core microbiome and investigate how rhizosphere core microbiome changes affect rice growth and rice production. 
  
 
-## 5.Research Team Members
-1. Mr. Nuttapon Pombubpa
-2. Dr. Thanin Chantarachot
-3. Ms. Ratthipa Thanarak
+## 5.Research Team Members (alphabetical order)
+1. [Nuttapon Pombubpa](https://natpombubpa.github.io/) (University of California Riverside)
+2. Ratthipa Thanarak (Rice Department of Thailand)
+3. Supachitra Chadchawan (Chulalongkorn Univeristy)
+4. Thanin Chantarachot (Chulalongkorn Univeristy)
