@@ -40,5 +40,5 @@ Previous work from the group has shown that fermented chitin waste outperforms c
 ## 5.Research Team Members (alphabetical order)
 1. [Nuttapon Pombubpa](https://natpombubpa.github.io/) (University of California Riverside)
 2. Ratthipa Thanarak (Rice Department of Thailand)
-3. Supachitra Chadchawan (Chulalongkorn Univeristy)
+3. [Supachitra Chadchawan](http://www.botany.sc.chula.ac.th/?p=981) (Chulalongkorn Univeristy)
 4. Thanin Chantarachot (Chulalongkorn Univeristy)
